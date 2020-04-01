@@ -4,8 +4,8 @@ import { Bar } from './styles';
 
 const NavBar = () => (
 	<Bar>
-		<NavLink text="Home" to="personal-assistant/" />
-		<NavLink text="Todos" to="personal-assistant/todo" />
+		<NavLink text="Home" to="/personal-assistant/" />
+		<NavLink text="Todos" to="/personal-assistant/todo" />
 	</Bar>
 )
 
