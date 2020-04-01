@@ -11,9 +11,9 @@ const App = () => {
 		<StateProvider>
 			<NavBar />
 			<Switch>
-				<Route exact path="/todo/:id" component={Details} />
-				<Route exact path="/todo" component={Todos} />
-		        <Route exact path="/" component={Home} />
+				<Route exact path="personal-assistant/todo/:id" component={Details} />
+				<Route exact path="personal-assistant/todo" component={Todos} />
+		        <Route exact path="personal-assistant/" component={Home} />
 	    	</Switch>
 		</StateProvider>
 	)
