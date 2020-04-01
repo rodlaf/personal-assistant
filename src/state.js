@@ -10,6 +10,7 @@ const initialState = {
 	search: "",
 	geo: null,
 	detailsInput: "",
+	pathname: window.location.pathname
 };
 
 export const StateProvider = ({children}) => {

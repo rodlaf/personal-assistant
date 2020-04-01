@@ -3,10 +3,12 @@ import NavLink from './Components/NavLink/index';
 import { Bar } from './styles';
 
 const NavBar = () => (
-	<Bar>
-		<NavLink text="Home" to="/" />
-		<NavLink text="Todos" to="/todo" />
-	</Bar>
+		<Bar>
+			<NavLink text="Home" to="/" />
+			<NavLink text="Todos" to="/todo" />
+		</Bar>
 )
+
+	
 
 export default NavBar
