@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de34096b9f44d38ae17b257cf8e6f71c",
+    "revision": "6719aafd29a3aefdfa8ba265efc6956e",
     "url": "/personal-assistant/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/personal-assistant/static/js/2.9d0ff12e.chunk.js.LICENSE"
   },
   {
-    "revision": "af6c09ca93aaaf0955dd",
-    "url": "/personal-assistant/static/js/main.f091873f.chunk.js"
+    "revision": "e5c74d80ddf7dcaae101",
+    "url": "/personal-assistant/static/js/main.fed516fe.chunk.js"
   },
   {
     "revision": "6af68dc79e5ea81f8987",
