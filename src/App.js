@@ -3,7 +3,7 @@ import Details from './Containers/Details/index'
 import Home from './Containers/Home/index'
 import Todos from './Containers/Todos/index'
 import NavBar from './Components/NavBar/index'
-import { Switch, Route, useHistory }  from 'react-router-dom';
+import { Switch, Route }  from 'react-router-dom';
 import { StateProvider } from './state'
 
 const App = () => {
